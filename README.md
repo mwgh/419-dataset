@@ -1,11 +1,5 @@
 # Project Group 13: Dear User, Are You Flirting With Me?
 
-Members:  
-Anastasia Akkuzu  
-Sophia Long  
-Dylan Reviczky  
-Mary Wang  
-
 This is our 419-dataset containing flirting videos, and the following gives a instruction of what we did for our dataset.
 
 [GitHub repository](https://github.com/mwgh/419-dataset)
